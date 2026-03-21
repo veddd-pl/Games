@@ -28,6 +28,7 @@ Arma uses a "tactical pace" system rather than just a simple sprint.
 | **Optics (Scope)** | `Right Click` (Click once) |
 | **Hold Breath (Steady Aim)** | `Right Click` (Hold) |
 | **Switch Weapon / Fire Mode** | `F` |
+| **Put down weapon** | double tap `LStrg` |
 | **Reload** | `R` |
 | **Throw Grenade** | `G` (*Careful! Double-tap G is the default for some mods*) |
 | **Compass / Watch / Map** | `K` / `O` / `M` |
